@@ -6,10 +6,6 @@
 
 ![](./screenshot.png)
 
-### Links
-
--   Solution URL: Working on it.
-
 ## My process
 
 ### Built with
